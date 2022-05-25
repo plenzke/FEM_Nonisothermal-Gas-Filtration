@@ -5,4 +5,4 @@ Numerical implementation of two-dimensional non-isothermal gas filtration with F
 состояние недеформируемого пласта, состоит из закона Дарси (1), уравнений
 неразрывности (2), энергии (3) и состояния (4) [2]:
 
-1. $$ w = -{k \over u} grad{p} $$
+1. $ w = -{k \over u} grad{p} $
